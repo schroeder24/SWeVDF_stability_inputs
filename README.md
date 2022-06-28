@@ -1,5 +1,6 @@
 # SWeVDF_stability_inputs
-Input files for LEOPARD code to produce data shown in Schroeder et. al. 2021 (in prep).
+Input files for LEOPARD code to produce data shown in:
+J M Schroeder, S Boldyrev, P Astfalk, Stability of superthermal strahl electrons in the solar wind, Monthly Notices of the Royal Astronomical Society, Volume 507, Issue 1, October 2021, Pages 1329–1336, https://doi.org/10.1093/mnras/stab2228
 
 The code used, LEOPARD, is publically available from https://github.com/pastfalk/LEOPARD.
 
